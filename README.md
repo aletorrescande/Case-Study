@@ -3,7 +3,7 @@
 ## **Company's History**
 The company chosen for this case study was Betterment. It was founded in August 2008 by Jonathan Stein, Sean Owen, Ryan O’Sullivan and Eli Broverman and launched in 2010 at TechCrunch Disrupt. Jonathan Stein earned a bachelor's degree in Economics from Hardvard Univesrsity in 2001 and MBA from Columbia Business School in 2009. Jonathan founded Bettermen to address the challenges he encountered through managing his own investments. Betterment was created with the idea of simplyfing the complex investment landscape for its users by creating a platform that uses technology to provide personalized investemnt and money management advice to its customers.
 
-<img src="https://media.licdn.com/dms/image/C4E12AQGB67eS2XgsNw/article-inline_image-shrink_1000_1488/0/1520632333547?e=1692230400&v=beta&t=eIOUraGlZ3FXi7EEFG7jy2qtCz5Uh1c2Z5UjFjGmx04" width="485.4" height="370.8">
+<img src="image/founder.jpeg" width="485.4" height="370.8">
 
 1.[Source](#reference-1)
 
