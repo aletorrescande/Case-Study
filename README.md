@@ -7,7 +7,8 @@ The company chosen for this case study was Betterment. It was founded in August 
 
 1.[Source](#reference-1)
 
-Betterment has raised $435 million over 10 funding rounds from 26 investors. The latest funding was on September 2021 for a total of $160 million which led to a valuation of the company of $1.3 billion. The growth capital was compromised of $60 million from a Series F equity round and $100 million from a debt financing round. This growth capital led . The first funding round was in December 2010 for $3 million (Series A), followed by a series B equity run in October 2012 for $10 million, third round was in April 2014 for $32 million (Series C), fourth round was in February 2015 for $60 million (Series D), fifth round was in March 2016 for $100 million (Series E) and another series E equity run in July 2017 for $70 million. The investors of this company include: Kinnevik, Citi Ventures, Fransisco Partners and Alfac Global Ventures. 
+Betterment has raised $435 million over 10 funding rounds from 26 investors. The latest funding was on September 2021 for a total of $160 million which led to a valuation of the company of $1.3 billion. The growth capital was compromised of $60 million from a Series F equity round and $100 million from a debt financing round. The first funding round was in December 2010 for $3 million (Series A), followed by a series B equity run in October 2012 for $10 million, third round was in April 2014 for $32 million (Series C), fourth round was in February 2015 for $60 million (Series D), fifth round was in March 2016 for $100 million (Series E) and another series E equity run in July 2017 for $70 million. The investors of this company include: Kinnevik, Citi Ventures, Fransisco Partners and Alfac Global Ventures. 
+
  2.[Source2](#reference-2)
 
 
