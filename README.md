@@ -7,8 +7,8 @@ The company chosen for this case study was Betterment. It was founded in August 
 
 1.[Source](#reference-1)
 
-The company was funded 
-Bettermen latest funding was on September 2021 for a total of $160 million compromised of $60 million from a Series F equity round and a $100 million debt financing round. 
+Betterment has raised $435 million over 10 funding rounds from 26 investors. The latest funding was on September 2021 for a total of $160 million which led to a valuation of the company of $1.3 billion. The growth capital was compromised of $60 million from a Series F equity round and $100 million from a debt financing round. This growth capital led . The first funding round was in December 2010 for $3 million (Series A), followed by a series B equity run in October 2012 for $10 million, third round was in April 2014 for $32 million (Series C), fourth round was in February 2015 for $60 million (Series D), fifth round was in March 2016 for $100 million (Series E) and another series E equity run in July 2017 for $70 million. The investors of this company include: Kinnevik, Citi Ventures, Fransisco Partners and Alfac Global Ventures. 
+ 2.[Source2](#reference-2)
 
 
 ## Business Activities
@@ -55,3 +55,8 @@ Bettermen latest funding was on September 2021 for a total of $160 million compr
 ### Reference 1
 Stein, J. (2016, July 25). The history of betterment: How we started a company that is changing an industry. LinkedIn. https://www.linkedin.com/pulse/history-betterment-how-we-started-company-changing-industry-stein/ 
 
+### Reference 2
+* Editors, B. (2022, October 18). Betterment raises $160 million in Growth Capital. Betterment. https://www.betterment.com/resources/2021-fundraising 
+* Betterment - Crunchbase Company Profile &amp; Funding. Crunchbase. (n.d.). https://www.crunchbase.com/organization/betterment 
+* Massa, A. (2021, September 29). Betterment valuation rises to $1.3 billion on funding round. Bloomberg.com. https://www.bloomberg.com/news/articles/2021-09-29/betterment-valuation-rises-to-1-3-billion-on-new-funding-round 
+* Nasr, T. (2023, May 26). Betterment statistics (2023): AUM, users, revenue, &amp; more. Investing in the Web. https://investingintheweb.com/brokers/betterment-statistics/#:~:text=As%20of%20April%2030%2C%202023,on%20behalf%20of%20its%20clients. 
