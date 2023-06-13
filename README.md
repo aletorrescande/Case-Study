@@ -1,20 +1,21 @@
 # The Role of Robo-Advisors in Wealth Management
 
 ## **Company's History**
-The company chosen for this case study was Betterment. It was founded in August 2008 by Jonathan Stein, Sean Owen, Ryan O’Sullivan and Eli Broverman and launched in 2010 at TechCrunch Disrupt. Jonathan Stein earned a bachelor's degree in Economics from Hardvard Univesrsity in 2001 and MBA from Columbia Business School in 2009. Jonathan founded Bettermen to address the challenges he encountered through managing his own investments. Betterment was created with the idea of simplyfing the complex investment landscape for its users by creating a platform that uses technology to provide personalized investemnt advice to its customers.
+The company chosen for this case study was Betterment. It was founded in August 2008 by Jonathan Stein, Sean Owen, Ryan O’Sullivan and Eli Broverman and launched in 2010 at TechCrunch Disrupt. Jonathan Stein earned a bachelor's degree in Economics from Hardvard Univesrsity in 2001 and MBA from Columbia Business School in 2009. Jonathan founded Bettermen to address the challenges he encountered through managing his own investments. Betterment was created with the idea of simplyfing the complex investment landscape for its users by creating a platform that uses technology to provide personalized investemnt and money management advice to its customers.
 
 <img src="https://media.licdn.com/dms/image/C4E12AQGB67eS2XgsNw/article-inline_image-shrink_1000_1488/0/1520632333547?e=1692230400&v=beta&t=eIOUraGlZ3FXi7EEFG7jy2qtCz5Uh1c2Z5UjFjGmx04" width="485.4" height="370.8">
 
 1.[Source](#reference-1)
 
-Betterment has raised $435 million over 10 funding rounds from 26 investors. The latest funding was on September 2021 for a total of $160 million which led to a valuation of the company of $1.3 billion. The growth capital was compromised of $60 million from a Series F equity round and $100 million from a debt financing round. The first funding round was in December 2010 for $3 million (Series A), followed by a series B equity run in October 2012 for $10 million, third round was in April 2014 for $32 million (Series C), fourth round was in February 2015 for $60 million (Series D), fifth round was in March 2016 for $100 million (Series E) and another series E equity run in July 2017 for $70 million. The investors of this company include: Kinnevik, Citi Ventures, Fransisco Partners and Alfac Global Ventures. 
+Betterment has raised $435 million over 10 funding rounds from several investors. The latest funding was on September 2021 for a total of $160 million which led to a valuation of the company of $1.3 billion. The growth capital was compromised of $60 million from a Series F equity round and $100 million from a debt financing round. The first funding round was in December 2010 for $3 million (Series A), followed by a series B equity run in October 2012 for $10 million, third round was in April 2014 for $32 million (Series C), fourth round was in February 2015 for $60 million (Series D), fifth round was in March 2016 for $100 million (Series E) and another series E equity run in July 2017 for $70 million. The investors of this company include: Kinnevik, Citi Ventures, Fransisco Partners and Alfac Global Ventures. Addittionaly,  Betterment has acquired 3 organizations, the latest being crypto manager Makara in February 2022. This last acquisition gave them the ability to add diversified crypto portfolios to their investments. 
 
  2.[Source2](#reference-2)
 
 
-## Business Activities
+## **Business Activities**
 
-* What specific financial problem is the company or project trying to solve?
+**What specific financial problem is the company or project trying to solve?**
+Betterment is trying to make money and investment management simple and affordable. Investing and managing money can become a very complex and overwhelming task for most people. Not only is it expensive to be able to afford a Fincial advisor but
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
