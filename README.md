@@ -15,9 +15,11 @@ Betterment has raised $435 million over 10 funding rounds from several investors
 ## **Business Activities**
 
 **What specific financial problem is the company or project trying to solve?**
-Betterment is trying to make money and investment management simple and affordable. Investing and managing money can become a very complex and overwhelming task for most people. Not only is it expensive to be able to afford a Fincial advisor but
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+Betterment is trying to make money and investment management simple and affordable. Investing and managing money can become a very complex and overwhelming task for most people. Additionally, not only is it expensive to be able to afford a Fincial advisor,it usually requires a large minimum investment to open an investment account. By using technology, the company also mitigates behavioral and emotional biases when managing portfolios. By being an online platform, it allows its customers to manage their investments at their own time without the need for in-person meetings, calls or paperwork.
+
+**Who is the company's intended customer?  Is there any information about the market size of this set of customers?** <br>
+The company's intended customer varies from experiences investors to beginners. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
