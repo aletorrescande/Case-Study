@@ -3,7 +3,7 @@
 ## **Company's History**
 The company chosen for this case study was Betterment. It was founded in August 2008 by Jonathan Stein, Sean Owen, Ryan O’Sullivan and Eli Broverman and launched in 2010 at TechCrunch Disrupt. Jonathan Stein earned a bachelor's degree in Economics from Hardvard Univesrsity in 2001 and MBA from Columbia Business School in 2009. Jonathan founded Bettermen to address the challenges he encountered through managing his own investments. Betterment was created with the idea of simplyfing the complex investment landscape for its users by creating a platform that uses technology to provide personalized investemnt advice to its customers.
 
-
+![Founder, Jon Stein, presenting at the TechCrunch Disrupt in 2010 (Reference 1)](/Users/alejandratorres/Documents/Bootcamp/Case-Study/Jon-at-TechCrunch.jpg)
 
 * How is the company funded? How much funding have they received?
 
@@ -46,3 +46,7 @@ The company chosen for this case study was Betterment. It was founded in August 
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## Addendum
+Stein, J. (2016, July 25). The history of betterment: How we started a company that is changing an industry. LinkedIn. https://www.linkedin.com/pulse/history-betterment-how-we-started-company-changing-industry-stein/ 
+
