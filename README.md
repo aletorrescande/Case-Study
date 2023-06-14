@@ -24,6 +24,10 @@ According to Statista, assets under management in the robo-advisor industry in t
 The source of the content of this graph is Statista [5](#reference-5)
 
 **Betterment's Competitive Advantage**
+By being the pioneer of robo-advisors, the company has well established credibilty and market allocation. One of the reasons why robo-advisor users choose Betterment is the simple and ease to use platform. The guided onboarding and funding process is very straightforward. Another reason is their affordability, customers can start investing with as little as $10 and they have competitive low-fees for investment management. Addittionally, they offer great cash mangement options, including no fee checking and savings accounts. 
+
+Betterment goes beyond simply managing clients investments, it allows customers to connect external accounts. By knowing the clients' overall asset allocation, Betterment can offer a better and more assertive investment management advice. This also allows its users to have a complete picture of their finances. Betterment offers customers' access to a human Financial Advisor when their investments reach $100,000+. Futhermore, "Betterment goes beyond the typical offerings from robo-advisors, providing an income-focused, bond-centric portfolio, and several socially responsible investment (SRI) portfolio choices, as well as providing access to third-party portfolios managed by BlackRock and Goldman Sachs"[9](#reference-9). Clients also have the option of a Flexible portfolio where they can adjust specific asset class weightings.
+
 
 **How does Betterment's Robo-Advisor work?**<br>
 Surprisingly, Betterment's robo-advisor does not use machine learning. After exploring the possiblity of using machine learning for portfolio generation, they found that the more simple approaches they were using were showing more effective results. The company's robo-advisor "involves a lot of math and statistical modeling with the crux depending on two different models averaged together" [6](#reference-6). In one of their techniques, Monte Carlo Simulations is used to simulate multiple market environments and creating portfolios for each of those scenarios. They then choose the better portfolio. The other model is based on Black-Litterman model. By using these models, they adapt the portfolios according to the customer's risk toletance, time-frame and financial goals. Consequently, they provide advice on the expected outcomes of the portfolios they generated for them. It is important to note that "even though Betterment doesn’t use machine learning widely, the technology does factor into some of its offerings". [6](#reference-6)
@@ -35,6 +39,8 @@ There are many programs that Betterment uses for developing models, algorithms a
 4. **Service Level Objevtive (SLO)**: to be able lo measure SLO Betterment uses some of this tools **StatsD** or **Micrometer** and **DataDog**.
 5. **GitHub**
 6. **CircleCI**: to provide CI/CD to the company's engineers.
+7. **SQL databases**
+
 
 
 ## Landscape
@@ -57,11 +63,7 @@ There are many programs that Betterment uses for developing models, algorithms a
 
 ## **Recommendations**
 
-My recommendation would be offering another service where clients could integrate their external investments accounts to perform an overral analysis of their asset allocation. This could offer a better understading of their clients situation and goals and offer a better investment strategy. The investment strategy that Betterment would offer would take into account what their clients have outside their platform which would result in a more accurate recommendation on where to invest through them. For example, if a client has more equity overall in other platfoms the robo-advisor could recommend a portfolio containing more debt (always contemplating the clients goals, needs and risk tolerance). Offering this additional service could potentially benefit Betterment's overall market share and increase revenue. For this, the company could use exsisting algorithms and engineered models as it is currently using for analysing and creating portfolios. The process of integrating this new service would employ similar data analysis as it does for integrating portfolios. The robo-advisor would take into account the values of the extetrnal accounts and the category as a new variable along with the other variables it currently uses to create, adjust and reallocate portfolios. 
-
-
-
-Additionally, I would recommend the company to explore the possibility of offering mutual funds to make it more competitive with other companies. 
+My recommendation would be offering to explore the possibility of offering mutual funds and other investment options to make it more competitive with other companies. 
 
 ## Addendum
 
@@ -95,3 +97,6 @@ Felicetta, D. (2021, November 14). Why (and how) betterment is using julia. Bett
 * Russell, S. (2021a, August 4). Focusing on what matters: Using slos to pursue User Happiness. Betterment. https://www.betterment.com/engineering/service-level-objectives-slo 
 * Mileham, J. (2018, October 23). CI/CD: Shortening the feedback loop. Betterment. https://www.betterment.com/engineering/ci-cd-shortening-the-feedback-loop 
 * Dev Community (2022, Jan 21) The Incremental Flutter Migration - Flutter NYC December Meetup (Pt 2). https://youtu.be/e6ncTlHSlUE
+* Engineering principles. (n.d.). https://betterment.github.io/eng-principles/#our-principles 
+
+### Reference 9
