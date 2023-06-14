@@ -26,8 +26,15 @@ The source of the content of this graph is Statista [5](#reference-5)
 **Betterment's Competitive Advantage**
 
 **How does Betterment's Robo-Advisor work?**<br>
-Surprisingly, Betterment's robo-advisor does not use machine learning. After exploring the possiblity of using machine learning for portfolio generation, they found that the more simple approaches they were using were showing more effective results. The company's robo-advisor "involves a lot of math and statistical modeling with the crux depending on two different models averaged together" [6](#reference-6). In one of their techniques, Monte Carlo Simulations is used to simulate multiple market environments and creating portfolios for each of those scenarios. The other model is based on Black-Litterman model. By using these models, they adapt the portfolios according to the customer's risk toletance, time-frame and financial goals. Consequently, they provide advice on the expected outcomes of the portfolios they generated for them. It is important to note that "even though Betterment doesn’t use machine learning widely, the technology does factor into some of its offerings". [6](#reference-6)
+Surprisingly, Betterment's robo-advisor does not use machine learning. After exploring the possiblity of using machine learning for portfolio generation, they found that the more simple approaches they were using were showing more effective results. The company's robo-advisor "involves a lot of math and statistical modeling with the crux depending on two different models averaged together" [6](#reference-6). In one of their techniques, Monte Carlo Simulations is used to simulate multiple market environments and creating portfolios for each of those scenarios. They then choose the better portfolio. The other model is based on Black-Litterman model. By using these models, they adapt the portfolios according to the customer's risk toletance, time-frame and financial goals. Consequently, they provide advice on the expected outcomes of the portfolios they generated for them. It is important to note that "even though Betterment doesn’t use machine learning widely, the technology does factor into some of its offerings". [6](#reference-6)
 
+There are many programs that Betterment uses for developing models, algorithms and codes and for testing their software. Some of the programs and tools include [8](#reference-8): 
+1. **Julia and Ruby:** the Quantitive Investment Team uses Julia to power projections and recommendations to the app and Ruby for the development of production code.
+2. **Flutter:** used for their moblie application and used to create a [Charlatan](https://www.betterment.com/engineering/end-to-end-ish-tests-using-fake-http-in-flutter) a fake HTTP configuration to test software.
+3. **WebValve:** is also used for testing software.
+4. **Service Level Objevtive (SLO)**: to be able lo measure SLO Betterment uses some of this tools **StatsD** or **Micrometer** and **DataDog**.
+5. **GitHub**
+6. **CircleCI**: to provide CI/CD to the company's engineers.
 
 
 ## Landscape
@@ -50,7 +57,9 @@ Surprisingly, Betterment's robo-advisor does not use machine learning. After exp
 
 ## **Recommendations**
 
-My recommendation would be offering another service where clients could integrate their external investments accounts to perform an overral analysis of their asset allocation. This could offer a better understading of their clients situation and goals and offer a better investment strategy. The investment strategy that Betterment would offer would take into account what their clients have outside their platform which would result in a more accurate recommendation on where to invest through them. For example, if a client has more equity overall in other platfoms the robo-advisor could recommend a portfolio containing more debt (always contemplating the clients goals, needs and risk tolerance). Offering this additional service could potentially benefit Betterment's overall market share and increase revenue. For this, the company could use similar algorithms as it is currently using for analysing and creating portfolios. The process of integrating this new service would employ similar data analysis as it does for integrating portfolios. The robo-advisor would take into account this new information as a new variable along with the other variables it currently uses to create, adjust and reallocate portfolios. 
+My recommendation would be offering another service where clients could integrate their external investments accounts to perform an overral analysis of their asset allocation. This could offer a better understading of their clients situation and goals and offer a better investment strategy. The investment strategy that Betterment would offer would take into account what their clients have outside their platform which would result in a more accurate recommendation on where to invest through them. For example, if a client has more equity overall in other platfoms the robo-advisor could recommend a portfolio containing more debt (always contemplating the clients goals, needs and risk tolerance). Offering this additional service could potentially benefit Betterment's overall market share and increase revenue. For this, the company could use exsisting algorithms and engineered models as it is currently using for analysing and creating portfolios. The process of integrating this new service would employ similar data analysis as it does for integrating portfolios. The robo-advisor would take into account the values of the extetrnal accounts and the category as a new variable along with the other variables it currently uses to create, adjust and reallocate portfolios. 
+
+
 
 Additionally, I would recommend the company to explore the possibility of offering mutual funds to make it more competitive with other companies. 
 
@@ -76,3 +85,13 @@ Robo-advisors - united states: Statista market forecast. Statista. (n.d.). https
 
 ### Reference 6
 Field, H. (2022, October 11). Why betterment’s robo-advisor doesn’t use AI. Emerging Tech Brew. https://www.emergingtechbrew.com/stories/2022/10/11/why-betterment-s-robo-advisor-doesn-t-use-ai 
+
+### Reference 7
+Felicetta, D. (2021, November 14). Why (and how) betterment is using julia. Betterment. https://www.betterment.com/engineering/why-betterment-is-using-julia 
+
+### Reference 8
+* Felicetta, D. (2021, November 14). Why (and how) betterment is using julia. Betterment. https://www.betterment.com/engineering/why-betterment-is-using-julia 
+* Moore, S. (2022a, February 23). End-to-end-ish tests using fake HTTP in flutter. Betterment. https://www.betterment.com/engineering/end-to-end-ish-tests-using-fake-http-in-flutter 
+* Russell, S. (2021a, August 4). Focusing on what matters: Using slos to pursue User Happiness. Betterment. https://www.betterment.com/engineering/service-level-objectives-slo 
+* Mileham, J. (2018, October 23). CI/CD: Shortening the feedback loop. Betterment. https://www.betterment.com/engineering/ci-cd-shortening-the-feedback-loop 
+* Dev Community (2022, Jan 21) The Incremental Flutter Migration - Flutter NYC December Meetup (Pt 2). https://youtu.be/e6ncTlHSlUE
