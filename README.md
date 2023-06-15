@@ -108,3 +108,4 @@ Felicetta, D. (2021, November 14). Why (and how) betterment is using julia. Bett
 Guillot, C. (2022, November 8). Robo-advisor betterment’s “challenger mindset” drives growth. The Financial Brand. https://thefinancialbrand.com/news/bank-culture/betterments-president-says-challenger-mindset-drives-its-growth-155252/ 
 
 ### Reference 11
+Gonzalez, E. (2016a, September 27). How we engineered betterment’s tax-coordinated portfolioTM. Betterment. https://www.betterment.com/engineering/how-we-engineered-tax-coordinated-portfolio?utm_campaign=PMax&amp;utm_content=brand&amp;utm_medium=sem&amp;gad=1&amp;gclid=Cj0KCQjw7aqkBhDPARIsAKGa0oK6PMHRnOTF5d3Ie7mIZlzhaAgZknjA0XsIa5i5uNIzlk99fbKK-zgaApzvEALw_wcB&amp;gclsrc=aw.ds 
